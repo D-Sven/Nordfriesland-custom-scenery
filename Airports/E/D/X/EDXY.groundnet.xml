@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="ga" name="Spot_1" lat="N54 40.991122" lon="E8 32.073196" heading="278"  radius="10"/>
+        <Parking index="1" type="ga" name="Spot_2" lat="N54 40.999978" lon="E8 32.074693" heading="278"  radius="10"/>
+        <Parking index="2" type="ga" name="Spot_3" lat="N54 41.008678" lon="E8 32.076811" heading="278"  radius="10"/>
+        <Parking index="3" type="ga" name="Spot_5" lat="N54 40.992850" lon="E8 32.047822" heading="278"  radius="10"/>
+        <Parking index="4" type="ga" name="Spot_7" lat="N54 41.010428" lon="E8 32.051110" heading="278"  radius="10"/>
+        <Parking index="5" type="ga" name="Spot_8" lat="N54 41.019324" lon="E8 32.053819" heading="278"  radius="10"/>
+        <Parking index="6" type="ga" name="Spot_9" lat="N54 41.020852" lon="E8 32.029003" heading="98"  radius="10"/>
+        <Parking index="7" type="ga" name="Spot_10" lat="N54 41.012296" lon="E8 32.027632" heading="98"  radius="10"/>
+        <Parking index="8" type="ga" name="Spot_11" lat="N54 41.004553" lon="E8 32.024993" heading="98"  radius="10"/>
+        <Parking index="9" type="ga" name="Spot_12" lat="N54 40.996097" lon="E8 32.022728" heading="98"  radius="10"/>
+        <Parking index="10" type="ga" name="Spot_13" lat="N54 40.997347" lon="E8 31.995686" heading="98"  radius="10"/>
+        <Parking index="11" type="ga" name="Spot_16" lat="N54 41.023101" lon="E8 32.000482" heading="98"  radius="10"/>
+        
+        <Parking index="12" type="ga" name="Hangar_1" lat="N54 40.988461" lon="E8 31.972773" heading="320"  radius="10"/>
+        <Parking index="13" type="ga" name="Westkeustenflug_1" lat="N54 40.988554" lon="E8 31.952011" heading="320"  radius="10"/>
+        <Parking index="14" type="ga" name="Westkeustenflug_2" lat="N54 40.989164" lon="E8 31.942480" heading="320"  radius="10"/>
+        <Parking index="15" type="ga" name="Hangar_2" lat="N54 40.991944" lon="E8 31.921726" heading="320"  radius="10"/>
+        <Parking index="16" type="ga" name="Motorglider_1" lat="N54 40.997108" lon="E8 31.827287" heading="10"  radius="10"/>
+        <Parking index="17" type="ga" name="Motorglider_2" lat="N54 40.999536" lon="E8 31.804906" heading="10"  radius="10"/>
+        <Parking index="18" type="ga" name="Motorglider_3" lat="N54 41.001967" lon="E8 31.776309" heading="10"  radius="10"/>
+ </parkingList>
+</groundnet>
+<!--
+8.53287955 54.68314101 hdg: 320
+8.53253351 54.68314256 hdg: 320
+8.53237467 54.68315273 hdg: 320
+8.53202876 54.68319907 hdg: 320
+8.53045478 54.68328514 hdg: 320
+8.53008176 54.68332560 hdg: 10
+8.52960515 54.68336611 hdg: 10
+-->

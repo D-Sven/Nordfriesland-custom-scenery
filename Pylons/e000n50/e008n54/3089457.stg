@@ -1,0 +1,14 @@
+# pylons_e000n50_e008n54_3089457
+# do not edit below this line
+# Last Written Tue Sep 21 14:53:26 2021
+#
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 8.40798 54.87456 3.52 336.338
+OBJECT_BUILDING_MESH_DETAILED e000n50_e008n54_3089457c23.ac 8.40554 54.85780 0.00 90
+OBJECT_BUILDING_MESH_DETAILED e000n50_e008n54_3089457c33.ac 8.46776 54.85780 0.00 90
+# END pylons_e000n50_e008n54_3089457
+# pylons_e000n50_e008n54_3089465
+# do not edit below this line
+# Last Written Tue Sep 21 14:55:09 2021
+#
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 8.40798 54.87456 3.52 336.338
+# END pylons_e000n50_e008n54_3089465

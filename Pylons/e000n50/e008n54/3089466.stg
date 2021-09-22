@@ -1,0 +1,24 @@
+# pylons_e000n50_e008n54_3089466
+# do not edit below this line
+# Last Written Tue Sep 21 14:54:27 2021
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.64974 54.87575 0.89 119.018
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 8.74904 54.95077 -2.62 149.183
+OBJECT_BUILDING_MESH_DETAILED e000n50_e008n54_3089466c10.ac 8.59361 54.89297 0.00 90
+OBJECT_BUILDING_MESH_DETAILED e000n50_e008n54_3089466c20.ac 8.65602 54.89297 0.00 90
+OBJECT_BUILDING_MESH_DETAILED e000n50_e008n54_3089466c32.ac 8.71843 54.96483 0.00 90
+OBJECT_SHARED Models/Power/windturbine_e82_98m.xml 8.64433 54.87792 0.20 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.ac 8.61972 54.88389 0.01 0
+# END pylons_e000n50_e008n54_3089466
+# pylons_e000n50_e008n54_3089458
+# do not edit below this line
+# Last Written Tue Sep 21 14:54:56 2021
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.64974 54.87575 0.89 119.501
+# END pylons_e000n50_e008n54_3089458
+# pylons_e000n50_e008n54_3089467
+# do not edit below this line
+# Last Written Tue Sep 21 14:56:59 2021
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 8.74904 54.95077 -2.62 148.949
+# END pylons_e000n50_e008n54_3089467

@@ -1,0 +1,11 @@
+# details_e000n50_e008n54_3089457
+# do not edit below this line
+# Last Written Tue Sep 21 14:53:26 2021
+#
+OBJECT_STATIC e000n50_e008n54_3089457d00.ac 8.28111 54.76797 0.00 0
+OBJECT_STATIC e000n50_e008n54_3089457d02.ac 8.28111 54.83983 0.00 0
+OBJECT_STATIC e000n50_e008n54_3089457d23.ac 8.40554 54.85780 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 8.30474 54.85695 0.00 109.842
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 8.30564 54.85680 0.00 109.924
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 8.29610 54.76017 -0.00 28.6848
+# END details_e000n50_e008n54_3089457
